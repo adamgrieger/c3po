@@ -7,6 +7,10 @@ Using g++ on Unix/Linux, enter the following command:
 
 `g++ -std=c++11 c3po.cpp Centroid.cpp KMeans.cpp Pixel.cpp lodepng.cpp -o c3po`
 
+OR
+
+`c3po_compile.sh`
+
 ## Usage
 Using c3po is pretty straight forward. The command format for using c3po is as follows:
 
